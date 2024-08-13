@@ -1,30 +1,22 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-import pandas as pd
 import json
+import sys
 
-def main():
+def main(args):
     # Authenticate, setup spotipy
     client_credentials_manager = SpotifyClientCredentials()
     sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-    page = sp.playlist_tracks("2sZipx3jS6c1Ve3NygGaHx")
+    # Get first page of tracks
+    page = sp.playlist_tracks(args[0])
 
-    # with open('stuff.json', 'w') as out:
-    #     json.dump(page, out, indent=3)
-    # for i, track in enumerate(page['items']):
-    #     print(f"track {i} is {track['track']['name']}")
-    
-    # page = sp.next(page)
-    # for i, track in enumerate(page['items']):
-    #     print(f"track {i} is {track['track']['name']}")
     idx = 1
     while page:
-        # with open(f"page{idx}.json", 'w') as out:
-        #     json.dump(page['items'], out, indent=3)
-
+        # Dump this page to output file
         with open(f"tracks/page{idx}.json", 'w') as out:
             json.dump(page['items'], out, indent=3)
+        # Advance to next page, exit if this is the last page
         if page['next']:
             page = sp.next(page)
             idx+=1
@@ -33,4 +25,4 @@ def main():
         
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv[1:])
