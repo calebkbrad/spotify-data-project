@@ -23,7 +23,7 @@ def main():
         # with open(f"page{idx}.json", 'w') as out:
         #     json.dump(page['items'], out, indent=3)
 
-        with open(f"page{idx}.json", 'w') as out:
+        with open(f"tracks/page{idx}.json", 'w') as out:
             json.dump(page['items'], out, indent=3)
         if page['next']:
             page = sp.next(page)
