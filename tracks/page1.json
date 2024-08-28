@@ -459,7 +459,7 @@
          "href": "https://api.spotify.com/v1/tracks/0YveezON7jpiaHA8fnUHxN",
          "id": "0YveezON7jpiaHA8fnUHxN",
          "name": "Roundabout - 2003 Remaster",
-         "popularity": 59,
+         "popularity": 58,
          "uri": "spotify:track:0YveezON7jpiaHA8fnUHxN",
          "is_local": false
       },
@@ -925,7 +925,7 @@
          "href": "https://api.spotify.com/v1/tracks/0aym2LBJBk9DAYuHHutrIl",
          "id": "0aym2LBJBk9DAYuHHutrIl",
          "name": "Hey Jude - Remastered 2015",
-         "popularity": 71,
+         "popularity": 70,
          "uri": "spotify:track:0aym2LBJBk9DAYuHHutrIl",
          "is_local": false
       },
@@ -1027,7 +1027,7 @@
          "href": "https://api.spotify.com/v1/tracks/7hQJA50XrCWABAu5v6QZ4i",
          "id": "7hQJA50XrCWABAu5v6QZ4i",
          "name": "Don't Stop Me Now - Remastered 2011",
-         "popularity": 75,
+         "popularity": 74,
          "uri": "spotify:track:7hQJA50XrCWABAu5v6QZ4i",
          "is_local": false
       },
@@ -1129,7 +1129,7 @@
          "href": "https://api.spotify.com/v1/tracks/57JVGBtBLCfHw2muk5416J",
          "id": "57JVGBtBLCfHw2muk5416J",
          "name": "Another One Bites The Dust - Remastered 2011",
-         "popularity": 74,
+         "popularity": 73,
          "uri": "spotify:track:57JVGBtBLCfHw2muk5416J",
          "is_local": false
       },
@@ -1595,7 +1595,7 @@
          "href": "https://api.spotify.com/v1/tracks/5zA8vzDGqPl2AzZkEYQGKh",
          "id": "5zA8vzDGqPl2AzZkEYQGKh",
          "name": "Uptown Girl",
-         "popularity": 84,
+         "popularity": 83,
          "uri": "spotify:track:5zA8vzDGqPl2AzZkEYQGKh",
          "is_local": false
       },
@@ -2061,7 +2061,7 @@
          "href": "https://api.spotify.com/v1/tracks/4OJFkrRQqol4FsPesF8eu4",
          "id": "4OJFkrRQqol4FsPesF8eu4",
          "name": "Saturday in the Park - 2002 Remaster",
-         "popularity": 63,
+         "popularity": 62,
          "uri": "spotify:track:4OJFkrRQqol4FsPesF8eu4",
          "is_local": false
       },
@@ -2685,7 +2685,7 @@
          "href": "https://api.spotify.com/v1/tracks/7gpy7sfWPNuOKmUNs3XQYE",
          "id": "7gpy7sfWPNuOKmUNs3XQYE",
          "name": "Carry On",
-         "popularity": 58,
+         "popularity": 59,
          "uri": "spotify:track:7gpy7sfWPNuOKmUNs3XQYE",
          "is_local": false
       },
@@ -5019,7 +5019,7 @@
          "href": "https://api.spotify.com/v1/tracks/08Df9uxCLSZoAb0mqob7u5",
          "id": "08Df9uxCLSZoAb0mqob7u5",
          "name": "La de Da de Da de Da de Day Oh",
-         "popularity": 36,
+         "popularity": 35,
          "uri": "spotify:track:08Df9uxCLSZoAb0mqob7u5",
          "is_local": false
       },
@@ -6643,7 +6643,7 @@
          "href": "https://api.spotify.com/v1/tracks/7GqWnsKhMtEW0nzki5o0d8",
          "id": "7GqWnsKhMtEW0nzki5o0d8",
          "name": "Killer Queen - Remastered 2011",
-         "popularity": 69,
+         "popularity": 68,
          "uri": "spotify:track:7GqWnsKhMtEW0nzki5o0d8",
          "is_local": false
       },
@@ -9083,7 +9083,7 @@
          "href": "https://api.spotify.com/v1/tracks/473UAvIVzoWlNlJkv3CBMs",
          "id": "473UAvIVzoWlNlJkv3CBMs",
          "name": "Got to Know What's Going On",
-         "popularity": 19,
+         "popularity": 18,
          "uri": "spotify:track:473UAvIVzoWlNlJkv3CBMs",
          "is_local": false
       },
@@ -9185,7 +9185,7 @@
          "href": "https://api.spotify.com/v1/tracks/35ItUJlMtjOQW3SSiTCrrw",
          "id": "35ItUJlMtjOQW3SSiTCrrw",
          "name": "Crazy Little Thing Called Love - Remastered 2011",
-         "popularity": 73,
+         "popularity": 72,
          "uri": "spotify:track:35ItUJlMtjOQW3SSiTCrrw",
          "is_local": false
       },
@@ -9857,7 +9857,7 @@
          "href": "https://api.spotify.com/v1/tracks/5pnAzBcq5zfawsWiTQ3nTu",
          "id": "5pnAzBcq5zfawsWiTQ3nTu",
          "name": "Mount St. Helens Is About to Blow Up",
-         "popularity": 33,
+         "popularity": 32,
          "uri": "spotify:track:5pnAzBcq5zfawsWiTQ3nTu",
          "is_local": false
       },
@@ -12485,7 +12485,7 @@
          "href": "https://api.spotify.com/v1/tracks/24Z9F2H7XbgK0yMK8d7W5i",
          "id": "24Z9F2H7XbgK0yMK8d7W5i",
          "name": "Christmas Isn't Real",
-         "popularity": 15,
+         "popularity": 14,
          "uri": "spotify:track:24Z9F2H7XbgK0yMK8d7W5i",
          "is_local": false
       },
@@ -15349,7 +15349,7 @@
          "href": "https://api.spotify.com/v1/tracks/5FMXrphygZ4z3gVDHGWxgl",
          "id": "5FMXrphygZ4z3gVDHGWxgl",
          "name": "Copacabana (At the Copa)",
-         "popularity": 68,
+         "popularity": 67,
          "uri": "spotify:track:5FMXrphygZ4z3gVDHGWxgl",
          "is_local": false
       },
@@ -15815,7 +15815,7 @@
          "href": "https://api.spotify.com/v1/tracks/4YwbSZaYeYja8Umyt222Qf",
          "id": "4YwbSZaYeYja8Umyt222Qf",
          "name": "You Can't Hurry Love - 2016 Remaster",
-         "popularity": 78,
+         "popularity": 77,
          "uri": "spotify:track:4YwbSZaYeYja8Umyt222Qf",
          "is_local": false
       },
@@ -17729,7 +17729,7 @@
          "href": "https://api.spotify.com/v1/tracks/22wxe2Yc9JzihICXYLGAQ7",
          "id": "22wxe2Yc9JzihICXYLGAQ7",
          "name": "Big Shot",
-         "popularity": 56,
+         "popularity": 55,
          "uri": "spotify:track:22wxe2Yc9JzihICXYLGAQ7",
          "is_local": false
       },
@@ -18661,7 +18661,7 @@
          "href": "https://api.spotify.com/v1/tracks/4U45aEWtQhrm8A5mxPaFZ7",
          "id": "4U45aEWtQhrm8A5mxPaFZ7",
          "name": "Vienna",
-         "popularity": 83,
+         "popularity": 82,
          "uri": "spotify:track:4U45aEWtQhrm8A5mxPaFZ7",
          "is_local": false
       },
@@ -19127,7 +19127,7 @@
          "href": "https://api.spotify.com/v1/tracks/5RgFlk1fcClZd0Y4SGYhqH",
          "id": "5RgFlk1fcClZd0Y4SGYhqH",
          "name": "She's Always a Woman",
-         "popularity": 75,
+         "popularity": 74,
          "uri": "spotify:track:5RgFlk1fcClZd0Y4SGYhqH",
          "is_local": false
       },
@@ -20059,7 +20059,7 @@
          "href": "https://api.spotify.com/v1/tracks/23l1kVpqMVREiwU1YAlcr4",
          "id": "23l1kVpqMVREiwU1YAlcr4",
          "name": "I Guess That's Why They Call It The Blues",
-         "popularity": 71,
+         "popularity": 70,
          "uri": "spotify:track:23l1kVpqMVREiwU1YAlcr4",
          "is_local": false
       },
@@ -20525,7 +20525,7 @@
          "href": "https://api.spotify.com/v1/tracks/5DH7nDryMhpixm4G4B7RP9",
          "id": "5DH7nDryMhpixm4G4B7RP9",
          "name": "The Longest Time",
-         "popularity": 65,
+         "popularity": 64,
          "uri": "spotify:track:5DH7nDryMhpixm4G4B7RP9",
          "is_local": false
       },
@@ -20993,7 +20993,7 @@
          "href": "https://api.spotify.com/v1/tracks/7uEcCGtM1FBBGIhPozhJjv",
          "id": "7uEcCGtM1FBBGIhPozhJjv",
          "name": "Daydream Believer",
-         "popularity": 70,
+         "popularity": 68,
          "uri": "spotify:track:7uEcCGtM1FBBGIhPozhJjv",
          "is_local": false
       },
@@ -21925,7 +21925,7 @@
          "href": "https://api.spotify.com/v1/tracks/4cG3ovmC8Hnp9ZsmSZI2O4",
          "id": "4cG3ovmC8Hnp9ZsmSZI2O4",
          "name": "Movin' Out (Anthony's Song)",
-         "popularity": 48,
+         "popularity": 47,
          "uri": "spotify:track:4cG3ovmC8Hnp9ZsmSZI2O4",
          "is_local": false
       },
@@ -22391,7 +22391,7 @@
          "href": "https://api.spotify.com/v1/tracks/1Gg14U26oq94uWcG7khccX",
          "id": "1Gg14U26oq94uWcG7khccX",
          "name": "An Innocent Man",
-         "popularity": 53,
+         "popularity": 52,
          "uri": "spotify:track:1Gg14U26oq94uWcG7khccX",
          "is_local": false
       },
@@ -22857,7 +22857,7 @@
          "href": "https://api.spotify.com/v1/tracks/4Qw41GUmS4rF7GR3am9Rt6",
          "id": "4Qw41GUmS4rF7GR3am9Rt6",
          "name": "Leave a Tender Moment Alone",
-         "popularity": 50,
+         "popularity": 49,
          "uri": "spotify:track:4Qw41GUmS4rF7GR3am9Rt6",
          "is_local": false
       },
@@ -23323,7 +23323,7 @@
          "href": "https://api.spotify.com/v1/tracks/6kCJMxv445L2okuTiou1fR",
          "id": "6kCJMxv445L2okuTiou1fR",
          "name": "Tell Her About It",
-         "popularity": 58,
+         "popularity": 57,
          "uri": "spotify:track:6kCJMxv445L2okuTiou1fR",
          "is_local": false
       },
@@ -24255,7 +24255,7 @@
          "href": "https://api.spotify.com/v1/tracks/3gdewACMIVMEWVbyb8O9sY",
          "id": "3gdewACMIVMEWVbyb8O9sY",
          "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-         "popularity": 82,
+         "popularity": 81,
          "uri": "spotify:track:3gdewACMIVMEWVbyb8O9sY",
          "is_local": false
       },
@@ -24721,7 +24721,7 @@
          "href": "https://api.spotify.com/v1/tracks/3BQHpFgAp4l80e1XslIjNI",
          "id": "3BQHpFgAp4l80e1XslIjNI",
          "name": "Yesterday - Remastered 2009",
-         "popularity": 78,
+         "popularity": 77,
          "uri": "spotify:track:3BQHpFgAp4l80e1XslIjNI",
          "is_local": false
       },
@@ -25653,7 +25653,7 @@
          "href": "https://api.spotify.com/v1/tracks/1GLmaPfulP0BrfijohQpN5",
          "id": "1GLmaPfulP0BrfijohQpN5",
          "name": "Don't Worry Baby - Remastered 2001",
-         "popularity": 67,
+         "popularity": 66,
          "uri": "spotify:track:1GLmaPfulP0BrfijohQpN5",
          "is_local": false
       },
@@ -26063,7 +26063,7 @@
          "href": "https://api.spotify.com/v1/tracks/7I774iZM4QkJK6gFPEEmS0",
          "id": "7I774iZM4QkJK6gFPEEmS0",
          "name": "Sh-Boom",
-         "popularity": 29,
+         "popularity": 28,
          "uri": "spotify:track:7I774iZM4QkJK6gFPEEmS0",
          "is_local": false
       },
@@ -26997,7 +26997,7 @@
          "href": "https://api.spotify.com/v1/tracks/1rJi8cf8OWsrX4CqBnMSoQ",
          "id": "1rJi8cf8OWsrX4CqBnMSoQ",
          "name": "Who Loves the Sun - 2015 Remaster",
-         "popularity": 51,
+         "popularity": 50,
          "uri": "spotify:track:1rJi8cf8OWsrX4CqBnMSoQ",
          "is_local": false
       },

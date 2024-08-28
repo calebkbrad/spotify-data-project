@@ -9,9 +9,9 @@ def main():
     client_credentials_manager = SpotifyClientCredentials()
     sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-    with open('tracks_with_features.csv', 'w', newline='') as csvfile:
+    with open('data/tracks_with_features.csv', 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile)
-        headers = ['track_name', 'track_id', 'artists', 'date_added', 'release_date', 'popularity', 'duration_ms', 'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'time_signature']
+        headers = ['track_name', 'track_id', 'artist', 'date_added', 'release_date', 'popularity', 'duration_ms', 'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'time_signature']
         csvwriter.writerow(headers)
         for page_file in os.listdir('tracks'):
             page = None
@@ -28,10 +28,7 @@ def write_track(track_info: dict, output: csv.writer, sp: spotipy.Spotify):
     track = track_info['track']
     track_name = track['name']
     track_id = track['id']
-    artists = []
-    for artist in track['artists']:
-        artists.append(artist["name"])
-    artists = "+".join(artists)
+    artist = track['artists'][0]['name']
     date_added = track_info['added_at']
     release_date = track['album']['release_date']
     popularity = track['popularity']
@@ -50,7 +47,7 @@ def write_track(track_info: dict, output: csv.writer, sp: spotipy.Spotify):
     tempo = audio_features['tempo']
     time_signature = audio_features['time_signature']
 
-    row = [track_name, track_id, artists, date_added, release_date, popularity, duration_ms, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, time_signature]
+    row = [track_name, track_id, artist, date_added, release_date, popularity, duration_ms, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, time_signature]
     output.writerow(row)
 
 

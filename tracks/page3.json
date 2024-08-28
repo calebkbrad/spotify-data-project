@@ -911,7 +911,7 @@
          "href": "https://api.spotify.com/v1/tracks/1xcfviDw2U2bCqRdeiXiRg",
          "id": "1xcfviDw2U2bCqRdeiXiRg",
          "name": "You've Got a Friend In Me",
-         "popularity": 41,
+         "popularity": 40,
          "uri": "spotify:track:1xcfviDw2U2bCqRdeiXiRg",
          "is_local": false
       },
@@ -4853,7 +4853,7 @@
          "href": "https://api.spotify.com/v1/tracks/70IxQPO3KJR0cJtUqe3Umi",
          "id": "70IxQPO3KJR0cJtUqe3Umi",
          "name": "You & Me",
-         "popularity": 49,
+         "popularity": 50,
          "uri": "spotify:track:70IxQPO3KJR0cJtUqe3Umi",
          "is_local": false
       },
@@ -6225,7 +6225,7 @@
          "href": "https://api.spotify.com/v1/tracks/1xl3AuutgtES9NlHCgcKQN",
          "id": "1xl3AuutgtES9NlHCgcKQN",
          "name": "Welcome to Tally Hall",
-         "popularity": 48,
+         "popularity": 47,
          "uri": "spotify:track:1xl3AuutgtES9NlHCgcKQN",
          "is_local": false
       },
@@ -8563,7 +8563,7 @@
          "href": "https://api.spotify.com/v1/tracks/0snPmmKHsUJhmQLPpHnR4M",
          "id": "0snPmmKHsUJhmQLPpHnR4M",
          "name": "John & Nancy",
-         "popularity": 48,
+         "popularity": 47,
          "uri": "spotify:track:0snPmmKHsUJhmQLPpHnR4M",
          "is_local": false
       },
@@ -9987,7 +9987,7 @@
          "href": "https://api.spotify.com/v1/tracks/12OJ323rHpdA9peSwPv9dL",
          "id": "12OJ323rHpdA9peSwPv9dL",
          "name": "Cars",
-         "popularity": 33,
+         "popularity": 32,
          "uri": "spotify:track:12OJ323rHpdA9peSwPv9dL",
          "is_local": false
       },
@@ -10455,7 +10455,7 @@
          "href": "https://api.spotify.com/v1/tracks/0AFydkgl5Creero3gNjqvF",
          "id": "0AFydkgl5Creero3gNjqvF",
          "name": "Murders",
-         "popularity": 59,
+         "popularity": 58,
          "uri": "spotify:track:0AFydkgl5Creero3gNjqvF",
          "is_local": false
       },
@@ -13233,7 +13233,7 @@
          "href": "https://api.spotify.com/v1/tracks/1FwFVKRNX1IV4eEZSGGg5M",
          "id": "1FwFVKRNX1IV4eEZSGGg5M",
          "name": "Darwin Derby",
-         "popularity": 44,
+         "popularity": 43,
          "uri": "spotify:track:1FwFVKRNX1IV4eEZSGGg5M",
          "is_local": false
       },
@@ -15101,7 +15101,7 @@
          "href": "https://api.spotify.com/v1/tracks/7KVA9XflawdJaRBd1XYkJu",
          "id": "7KVA9XflawdJaRBd1XYkJu",
          "name": "Hug All Ur Friends",
-         "popularity": 54,
+         "popularity": 53,
          "uri": "spotify:track:7KVA9XflawdJaRBd1XYkJu",
          "is_local": false
       },
@@ -15855,7 +15855,7 @@
          "href": "https://api.spotify.com/v1/tracks/4GBaPHvAyj4V2jeobD9tsy",
          "id": "4GBaPHvAyj4V2jeobD9tsy",
          "name": "The Word - Remastered 2009",
-         "popularity": 51,
+         "popularity": 50,
          "uri": "spotify:track:4GBaPHvAyj4V2jeobD9tsy",
          "is_local": false
       },
@@ -18479,7 +18479,7 @@
          "href": "https://api.spotify.com/v1/tracks/0HBrtXJohbIW4IhPZ50GmH",
          "id": "0HBrtXJohbIW4IhPZ50GmH",
          "name": "The Bidding",
-         "popularity": 70,
+         "popularity": 69,
          "uri": "spotify:track:0HBrtXJohbIW4IhPZ50GmH",
          "is_local": false
       },
@@ -19053,7 +19053,7 @@
          "href": "https://api.spotify.com/v1/tracks/2o4kbebGJSD2fwWG0J2BJN",
          "id": "2o4kbebGJSD2fwWG0J2BJN",
          "name": "Palm Tree on Avenue G",
-         "popularity": 17,
+         "popularity": 16,
          "uri": "spotify:track:2o4kbebGJSD2fwWG0J2BJN",
          "is_local": false
       },
@@ -20457,7 +20457,7 @@
          "href": "https://api.spotify.com/v1/tracks/7i6pxHwCREvogBRpGyMzFX",
          "id": "7i6pxHwCREvogBRpGyMzFX",
          "name": "Spring and a Storm",
-         "popularity": 50,
+         "popularity": 49,
          "uri": "spotify:track:7i6pxHwCREvogBRpGyMzFX",
          "is_local": false
       },
@@ -21391,7 +21391,7 @@
          "href": "https://api.spotify.com/v1/tracks/4gZDCOFuLCxCRWNhSEcOtJ",
          "id": "4gZDCOFuLCxCRWNhSEcOtJ",
          "name": "These Days",
-         "popularity": 61,
+         "popularity": 62,
          "uri": "spotify:track:4gZDCOFuLCxCRWNhSEcOtJ",
          "is_local": false
       },
@@ -21831,7 +21831,7 @@
          "href": "https://api.spotify.com/v1/tracks/1tmRlF5pFo8G5OfJYUjWrR",
          "id": "1tmRlF5pFo8G5OfJYUjWrR",
          "name": "Touch-Tone Telephone",
-         "popularity": 61,
+         "popularity": 60,
          "uri": "spotify:track:1tmRlF5pFo8G5OfJYUjWrR",
          "is_local": false
       },
@@ -23777,7 +23777,7 @@
          "href": "https://api.spotify.com/v1/tracks/0lrtYwuy37bJzsO2LHz2kj",
          "id": "0lrtYwuy37bJzsO2LHz2kj",
          "name": "Cabinet Man",
-         "popularity": 59,
+         "popularity": 60,
          "uri": "spotify:track:0lrtYwuy37bJzsO2LHz2kj",
          "is_local": false
       },
@@ -25247,7 +25247,7 @@
          "href": "https://api.spotify.com/v1/tracks/7FqScuVJysPgwVFcepFJks",
          "id": "7FqScuVJysPgwVFcepFJks",
          "name": "Hate That You Know Me",
-         "popularity": 45,
+         "popularity": 44,
          "uri": "spotify:track:7FqScuVJysPgwVFcepFJks",
          "is_local": false
       },
@@ -27287,7 +27287,7 @@
          "href": "https://api.spotify.com/v1/tracks/5uyAeakIkHyTSW88uCD0M4",
          "id": "5uyAeakIkHyTSW88uCD0M4",
          "name": "Jamaica Jerk-Off - Remastered 2014",
-         "popularity": 38,
+         "popularity": 37,
          "uri": "spotify:track:5uyAeakIkHyTSW88uCD0M4",
          "is_local": false
       },
@@ -31589,7 +31589,7 @@
          "href": "https://api.spotify.com/v1/tracks/6rSJz9u8Y9xixsh5fKu9hV",
          "id": "6rSJz9u8Y9xixsh5fKu9hV",
          "name": "Aloo Gobi",
-         "popularity": 41,
+         "popularity": 40,
          "uri": "spotify:track:6rSJz9u8Y9xixsh5fKu9hV",
          "is_local": false
       },
@@ -32619,7 +32619,7 @@
          "href": "https://api.spotify.com/v1/tracks/4AZoTNP3naXZcyvLFveYhk",
          "id": "4AZoTNP3naXZcyvLFveYhk",
          "name": "Numbers",
-         "popularity": 33,
+         "popularity": 32,
          "uri": "spotify:track:4AZoTNP3naXZcyvLFveYhk",
          "is_local": false
       },
@@ -33551,7 +33551,7 @@
          "href": "https://api.spotify.com/v1/tracks/47xKMQCtAn2C4hL9h5EvQy",
          "id": "47xKMQCtAn2C4hL9h5EvQy",
          "name": "Get Used to It",
-         "popularity": 51,
+         "popularity": 52,
          "uri": "spotify:track:47xKMQCtAn2C4hL9h5EvQy",
          "is_local": false
       },
@@ -33671,7 +33671,7 @@
          "href": "https://api.spotify.com/v1/tracks/4eLn7z31zqzEdlKSgesohf",
          "id": "4eLn7z31zqzEdlKSgesohf",
          "name": "Good People",
-         "popularity": 63,
+         "popularity": 62,
          "uri": "spotify:track:4eLn7z31zqzEdlKSgesohf",
          "is_local": false
       },
@@ -33791,7 +33791,7 @@
          "href": "https://api.spotify.com/v1/tracks/5eWOsyHHic4vJP3LjTVhqv",
          "id": "5eWOsyHHic4vJP3LjTVhqv",
          "name": "Sitting, Waiting, Wishing",
-         "popularity": 67,
+         "popularity": 66,
          "uri": "spotify:track:5eWOsyHHic4vJP3LjTVhqv",
          "is_local": false
       },
@@ -33911,7 +33911,7 @@
          "href": "https://api.spotify.com/v1/tracks/3cnRYoW4nYzIuVPCp7k5iG",
          "id": "3cnRYoW4nYzIuVPCp7k5iG",
          "name": "Breakdown",
-         "popularity": 58,
+         "popularity": 56,
          "uri": "spotify:track:3cnRYoW4nYzIuVPCp7k5iG",
          "is_local": false
       },
@@ -34031,7 +34031,7 @@
          "href": "https://api.spotify.com/v1/tracks/4VywXu6umkIQ2OS0m1I79y",
          "id": "4VywXu6umkIQ2OS0m1I79y",
          "name": "Better Together",
-         "popularity": 71,
+         "popularity": 72,
          "uri": "spotify:track:4VywXu6umkIQ2OS0m1I79y",
          "is_local": false
       },
@@ -35669,7 +35669,7 @@
          "href": "https://api.spotify.com/v1/tracks/3UhhRDkHWz7D28BkejHzqI",
          "id": "3UhhRDkHWz7D28BkejHzqI",
          "name": "Razzmatazz",
-         "popularity": 49,
+         "popularity": 48,
          "uri": "spotify:track:3UhhRDkHWz7D28BkejHzqI",
          "is_local": false
       },
